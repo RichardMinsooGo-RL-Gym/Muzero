@@ -36,7 +36,12 @@ Local Installation
 
 PIP dependency : [requirement.txt](https://github.com/RichardMinsooGo-RL-Gym/Muzero/blob/main/requirements.txt)
 ~~~bash
-git clone https://github.com/DHDev0/Muzero.git
+
+# Clone from Github Repository
+! git init .
+! git remote add origin https://github.com/RichardMinsooGo-RL-Gym/Muzero
+# ! git pull origin master
+! git pull origin main
 
 cd Muzero
 
