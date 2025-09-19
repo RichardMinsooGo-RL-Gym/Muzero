@@ -34,7 +34,7 @@ Getting started
 Local Installation
 ------------------
 
-PIP dependency : [requirement.txt](https://github.com/DHDev0/Muzero/blob/main/requirements.txt)
+PIP dependency : [requirement.txt](https://github.com/RichardMinsooGo-RL-Gym/Muzero/blob/main/requirements.txt)
 ~~~bash
 git clone https://github.com/DHDev0/Muzero.git
 
